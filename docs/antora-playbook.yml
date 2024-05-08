@@ -1,0 +1,13 @@
+site:
+  title: portails
+  url: https://scarisey.github.io/portails
+  start_page: portails::index.adoc
+content:
+  sources: 
+  - url: https://github.com/scarisey/portails
+    start_paths: docs
+ui: 
+  supplemental_files: ./supplemental-ui
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
