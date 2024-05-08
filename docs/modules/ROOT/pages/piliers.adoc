@@ -1,0 +1,50 @@
+= Montage des piliers
+
+== Outils
+
+* pistolet à mastic
+* règle de maçon, niveau, fil, crayon
+* marteau et massette
+* meleuse
+* bétonnière
+* brouette
+* pelle, truelle, seau 
+* bac à gâcher
+
+== Matériaux
+ 
+ * armature métallique
+ * fil de fer
+ * grave béton et ciment
+ * mastic colle
+ * éléments de pilier et chapeaux
+ 
+== Etapes
+
+1. **positionner les premiers éléments de pilier**
+
+* niveau, distance, et alignement des faces
+* tracer les positions au sol et enlever
+* fixer les armatures métalliques avec du fil de fer
+* mettre du mastic colle pour assurer l'étanchéité ?
+* vérifier le niveau
+
+2. **suite du montage**
+
+* empiler deux éléments de pilier avec du mastic
+* préparer le béton à la bétonière
+* verser du béton dans le bac à gacher
+* s'en servir pour remplir un seau à la fois
+* le béton du seau sert à remplir les piliers, à la truelle
+* une fois remplis, répéter les opérations pour chaque élément de pilier
+** il doit rester 10 cm entre le haut du portail et le haut du dernier élément de pilier
+* pour le dernier élément, couper le chainage avant de terminer de remplir
+
+3. **pose des chapeaux de pilier**
+
+ * après sechage du béton de pilier
+ * pose des chapeaux sur mastic
+ 
+== Ressources
+
+ * https://www.youtube.com/watch?v=G9JjFwf4lUI[Casto - montage piliers]

@@ -1,3 +1,5 @@
 name: portails
 title: Réalisation des portails
-version: 1
+version: true
+nav:
+ - modules/ROOT/nav.adoc

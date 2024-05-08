@@ -1,10 +1,11 @@
 site:
   title: portails
   url: https://scarisey.github.io/portails
-  start_page: portails::index.adoc
+  start_page: portails::fondations.adoc
 content:
   sources: 
-  - url: https://github.com/scarisey/portails
+  - url: ./..
+    branches: HEAD
     start_paths: docs
 ui: 
   supplemental_files: ./supplemental-ui

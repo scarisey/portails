@@ -1,0 +1,2 @@
+ * xref:fondations.adoc[Fondations]
+ * xref:piliers.adoc[Montage des piliers]
